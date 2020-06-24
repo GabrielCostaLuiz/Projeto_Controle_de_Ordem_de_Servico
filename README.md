@@ -6,7 +6,7 @@ Ferramentas usadas: XAMPP, NetBeans IDE, iReports e MySQL Workbench.
 
 Criado por Gabriel Costa Luiz e Vinicius Bueno (https://github.com/ViniciusGenthix)
 
-Pasta iReport = usado para emissão das OS
+Pasta iReport = usada para emissão das OS
 
 Pasta prjinfoX = pasta referente ao sistema
 
